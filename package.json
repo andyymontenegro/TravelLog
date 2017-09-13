@@ -1,0 +1,22 @@
+{
+  "name": "travellog.com",
+  "version": "0.1.2-7",
+  "description": "hello",
+  "main": "travel.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyymontenegro/TravelLog.git"
+  },
+  "keywords": [
+    "travel"
+  ],
+  "author": "andy montenegro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyymontenegro/TravelLog/issues"
+  },
+  "homepage": "https://github.com/andyymontenegro/TravelLog#readme"
+}
