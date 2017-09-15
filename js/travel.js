@@ -12,3 +12,12 @@ var config = {
   var database = firebase.database();
 // global variables 
     // --------------------------
+
+
+
+    // --------------------------
+
+
+    $("#bandSearch").on("click", function() {
+
+    }
