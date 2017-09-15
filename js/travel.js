@@ -1,2 +1,4 @@
+// Initialize Firebasae
+
 // global variables 
     // --------------------------
