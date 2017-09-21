@@ -10,7 +10,7 @@
   $.ajax({url:queryURL,method:'GET'})
       .done(function(response){
         $("#ticket").html("<iframe width=\"600px\" height=\"450px\" src='"+response.performers[0].url+"'/iframe>");
-        $("#maps").html(`<iframe width=\"600px\" height=\"450px\" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCrAG0aRsURc6XpGJG2j7aAyD1hiJuX3xA&q=Space+Needle,Dallas+TX"</iframe>`);
+        $("#maps").html(`<iframe width=\"600px\" height=\"450px\" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCrAG0aRsURc6XpGJG2j7aAyD1hiJuX3xA&q=Space+Needle,Arlington+TX"</iframe>`);
           console.log(response);
 
         });
